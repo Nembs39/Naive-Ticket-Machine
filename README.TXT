@@ -29,4 +29,3 @@
 23) the one difference is one is the balance and one is the price
 24)how much money do i have
 25)No, it works even if the return statment still says get balance
-26)
