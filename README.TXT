@@ -20,5 +20,13 @@
 17) private int status;
 18) Student
 19) 2, String and double
-20) 
-21) 
+20) some of the Book class's fields might be the book author and book title
+21) public Pet(String petsName)
+{
+  Pet = petsName;
+}
+22)
+23) the one difference is one is the balance and one is the price
+24)how much money do i have
+25)No, it works even if the return statment still says get balance
+26)
