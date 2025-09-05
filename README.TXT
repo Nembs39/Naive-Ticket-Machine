@@ -29,3 +29,14 @@
 23) the one difference is one is the balance and one is the price
 24)how much money do i have
 25)No, it works even if the return statment still says get balance
+27)error message says not a statement
+28) main difference is that print ticket resets your balance to 0
+29)no, because those methods either insert or remove money from the ticket machine
+30)/**
+* Increase score by the given number of points.
+*/
+public void increaseScore(int points)
+{
+// score = score + points;
+}
+31)
