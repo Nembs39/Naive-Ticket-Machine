@@ -8,4 +8,17 @@
    constructor: public void insertMoney(int amount)
    methods: public int getprice()
 11) there is nothing in the paranthesees in the method 
-    
+12) private int count; = int
+    private Student representative; = Student
+    private Server host; = Server
+13) private boolean alive; = boolean
+    private Person tutor; Person
+    private Game game; Game
+14) Student, Server, Person, Game
+15) Yes, it does matter
+16) Yes its always neccesary
+17) private int status;
+18) Student
+19) 2, String and double
+20) 
+21) 
