@@ -32,11 +32,26 @@
 27)error message says not a statement
 28) main difference is that print ticket resets your balance to 0
 29)no, because those methods either insert or remove money from the ticket machine
-30)/**
+31)/**
 * Increase score by the given number of points.
 */
 public void increaseScore(int points)
 {
 // score = score + points;
 }
-31)
+32)yes 
+33)/**
+* Reduce price by the given amount.
+*/
+public void discount(int amount)
+{
+// price = price - discount;
+}
+34)public void setage(int currentAge)
+{
+   age = currentAge;
+}
+35)private boolean alive;
+{
+    
+}
